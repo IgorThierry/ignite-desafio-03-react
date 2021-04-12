@@ -19,7 +19,7 @@
 ## :rocket: Sobre o desafio
 
 <p align="center">
-  <img src=".github/lunarshoes.png" alt="lunarshoes">
+  <img src=".github/shoes.png" alt="Rocketshoes">
 </p>
 
 Nesse desafio o principal objetivo é criar um hook de carrinho de compras. A aplicação tem duas páginas, um componente e um hook para implementar as funcionalidades pedidas nesse desafio:
@@ -38,11 +38,11 @@ Nesse desafio o principal objetivo é criar um hook de carrinho de compras. A a
 
 ```bash
 # Abra um terminal e copie este repositório com o comando
-git clone https://github.com/martins-rafael/lunarshoes
+git clone https://github.com/IgorThierry/ignite-desafio-03-react
 # ou use a opção de download.
 
 # Entre na pasta com 
-cd lunarshoes
+cd ignite-desafio-03-react
 
 # Instale as dependências
 yarn install

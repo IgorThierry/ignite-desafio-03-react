@@ -1,5 +1,5 @@
 import axios from 'axios';
 
 export const api = axios.create({
-  baseURL: 'https://my-json-server.typicode.com/martins-rafael/lunarshoes-api',
+  baseURL: 'localhost:3333',
 });
